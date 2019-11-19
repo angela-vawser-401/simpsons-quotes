@@ -1,0 +1,23 @@
+.More {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  button {
+    text-transform: uppercase;
+    color: whitesmoke;
+    background: crimson;
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+    border: 3px solid whitesmoke;
+    font-size: 1.5em;
+  }
+
+  button:hover {
+    transition: transform 100ms ease-in-out;
+    box-shadow: 3px 3px 4px black;
+    transform: translate3d(-1.5px, 1.5px, 0);
+    cursor: pointer;
+  }
+}

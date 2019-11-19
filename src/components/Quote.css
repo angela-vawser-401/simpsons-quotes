@@ -1,0 +1,35 @@
+.Quote {
+  display: flex;
+  flex-direction: column;
+  margin: 2em;
+
+  div{
+    align-self: center;
+  }
+
+  img {
+    height: 400px;
+    width: auto;
+  }
+  
+  .copy {
+    background: whitesmoke;
+    opacity: 75%;
+    margin-top: 20px;
+    border-radius: 20px;
+  }
+
+  figcaption {
+    font-family: 'Fredoka One', cursive;
+    font-size: 3em;
+    margin: 20px;
+    text-align: center;
+  }
+
+  p {
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2em;
+    margin: 20px 60px 20px 60px;
+    text-align: center;
+  }
+}
