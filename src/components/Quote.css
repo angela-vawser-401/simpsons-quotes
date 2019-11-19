@@ -17,6 +17,7 @@
     opacity: 75%;
     margin-top: 20px;
     border-radius: 20px;
+    width: 70%;
   }
 
   figcaption {
@@ -29,7 +30,7 @@
   p {
     font-family: 'Nanum Pen Script', cursive;
     font-size: 2em;
-    margin: 20px 60px 20px 60px;
+    margin: 20px 80px 20px 80px;
     text-align: center;
   }
 }
