@@ -1,2 +1,5 @@
-# simpsons-quotes
-Lab 41 - part 3
+# Simpsons Quotes
+## Lab 41 - Part 3
+### Author: Angela Vawser
+
+
